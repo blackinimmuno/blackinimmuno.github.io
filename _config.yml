@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 title: Black in Immuno
+background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color)
